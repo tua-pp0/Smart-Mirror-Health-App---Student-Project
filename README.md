@@ -30,6 +30,4 @@ This is a research project created by a university student to explore the future
 ## 📩 Contact
 
 For more information or inquiries, please contact:
-**student.name@university.edu**  
-OR  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+**GitHub:** [github.com/tua-pp0](https://github.com/tua-pp0)
